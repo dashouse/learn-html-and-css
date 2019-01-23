@@ -10,8 +10,3 @@ Useful resources
 - A list of [CSS properties](http://www.stylinwithcss.com/resources_css_properties.php)
 - [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-
-You will be changing an unstyled text file into a webpage using HTML tags and writing your own CSS
-
-![A before and after comparison image](beforeafter.png)
